@@ -1,4 +1,4 @@
-<manifest alg="2" build="2017.0.4.363" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="evilmun.com" resolutions="1x" timestamp="1642264509451">
+<manifest alg="2" build="2017.0.4.363" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="evilmun.com" resolutions="1x" timestamp="1642264622786">
   <folder name="css">
     <file name="site_global.css" crc="443350757"/>
     <file name="master_______-a.css" crc="457168020" ref="evilmun-hub---communiti:evilmun-hub---mersh:evilmun-hub---market:evilmun-ewc---egsp.kazan-2021:index:evilmun-hub---ewc-and-lan:сотрудничество:вакансия:об-evilmune:evilmun-hub---статус-серверов"/>
@@ -268,7 +268,7 @@
       <caption webpage="index" alt=""/>
     </file>
   </folder>
-  <file name="index.html" crc="3766457490" seo="true" mt="1642264299988" redirect="true"/>
+  <file name="index.html" crc="99301596" seo="true" mt="1642264613741" redirect="true"/>
   <file name="evilmun-ewc---egsp.kazan-2021.html" crc="4147125542" seo="true" mt="1641727244173" redirect="true"/>
   <file name="evilmun-hub---mersh.html" crc="4222218343" seo="true" mt="1641727244173" redirect="true"/>
   <file name="evilmun-hub---ewc-and-lan.html" crc="4204819415" seo="true" mt="1641727244173" redirect="true"/>
