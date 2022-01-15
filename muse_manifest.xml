@@ -1,4 +1,4 @@
-<manifest alg="2" build="2017.0.4.363" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="evilmun.com" resolutions="1x" timestamp="1642264622786">
+<manifest alg="2" build="2017.0.4.363" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="evilmun.com" resolutions="1x" timestamp="1642264722864">
   <folder name="css">
     <file name="site_global.css" crc="443350757"/>
     <file name="master_______-a.css" crc="457168020" ref="evilmun-hub---communiti:evilmun-hub---mersh:evilmun-hub---market:evilmun-ewc---egsp.kazan-2021:index:evilmun-hub---ewc-and-lan:сотрудничество:вакансия:об-evilmune:evilmun-hub---статус-серверов"/>
@@ -6,7 +6,7 @@
     <file name="evilmun-hub---mersh.css" crc="10050757" ref="evilmun-hub---mersh"/>
     <file name="evilmun-hub---market.css" crc="3950906270" ref="evilmun-hub---market"/>
     <file name="evilmun-ewc---egsp_kazan-2021.css" crc="4073722148" ref="evilmun-ewc---egsp.kazan-2021"/>
-    <file name="index.css" crc="410570245" ref="index"/>
+    <file name="index.css" crc="349881262" ref="index"/>
     <file name="evilmun-hub---ewc-and-lan.css" crc="18083012" ref="evilmun-hub---ewc-and-lan"/>
     <file name="______________.css" crc="3805934134" ref="сотрудничество"/>
     <file name="________.css" crc="3835705246" ref="вакансия"/>
@@ -268,7 +268,7 @@
       <caption webpage="index" alt=""/>
     </file>
   </folder>
-  <file name="index.html" crc="99301596" seo="true" mt="1642264613741" redirect="true"/>
+  <file name="index.html" crc="231475933" seo="true" mt="1642264704135" redirect="true"/>
   <file name="evilmun-ewc---egsp.kazan-2021.html" crc="4147125542" seo="true" mt="1641727244173" redirect="true"/>
   <file name="evilmun-hub---mersh.html" crc="4222218343" seo="true" mt="1641727244173" redirect="true"/>
   <file name="evilmun-hub---ewc-and-lan.html" crc="4204819415" seo="true" mt="1641727244173" redirect="true"/>
