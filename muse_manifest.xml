@@ -1,12 +1,12 @@
-<manifest alg="2" build="2017.0.4.363" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="evilmun.com" resolutions="1x" timestamp="1651082058443">
+<manifest alg="2" build="2017.0.4.363" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="evilmun.com" resolutions="1x" timestamp="1651243772544">
   <folder name="css">
     <file name="site_global.css" crc="443350757"/>
-    <file name="master_______-a.css" crc="4210207830" ref="вакансия:поддержка-dx11:evilmun-hub---mersh:evilmun-ewc---egsp.kazan-2021:evilmun-hub---market:evilmun-hub---ewc-and-lan:об-evilmune:index:evilmun-hub---новости:evilmun-hub---статус-серверов:сотрудничество:evilmun-hub---communiti:evilmun---brend"/>
+    <file name="master_______-a.css" crc="4211370885" ref="вакансия:поддержка-dx11:evilmun-hub---mersh:evilmun-ewc---egsp.kazan-2021:evilmun-hub---market:evilmun-hub---ewc-and-lan:об-evilmune:index:evilmun-hub---новости:evilmun-hub---статус-серверов:сотрудничество:evilmun-hub---communiti:evilmun---brend"/>
     <file name="________.css" crc="270148530" ref="вакансия"/>
     <file name="_________-dx11.css" crc="56896281" ref="поддержка-dx11"/>
     <file name="evilmun-hub---mersh.css" crc="87646662" ref="evilmun-hub---mersh"/>
     <file name="evilmun-ewc---egsp_kazan-2021.css" crc="234841807" ref="evilmun-ewc---egsp.kazan-2021"/>
-    <file name="evilmun-hub---market.css" crc="514951018" ref="evilmun-hub---market"/>
+    <file name="evilmun-hub---market.css" crc="403615419" ref="evilmun-hub---market"/>
     <file name="evilmun-hub---ewc-and-lan.css" crc="85783643" ref="evilmun-hub---ewc-and-lan"/>
     <file name="__-evilmune.css" crc="418076793" ref="об-evilmune"/>
     <file name="evilmun-news.css" crc="3758620527" ref="evilmun-news"/>
@@ -108,12 +108,14 @@
     <file name="touchswipe.js" crc="4200445185" ref="evilmun-ewc---egsp.kazan-2021:evilmun-hub---communiti"/>
   </folder>
   <folder name="images">
-    <file name="шаблон-a-favicon.ico" crc="405531321" ref="index"/>
-    <file name="loading-logo.png" crc="392056023" ref="index">
+    <file name="шаблон-a-favicon.ico" crc="405531321" ref="index:evilmun-hub---market"/>
+    <file name="loading-logo.png" crc="392056023" ref="index:evilmun-hub---market">
       <caption webpage="index" alt=""/>
+      <caption webpage="evilmun-hub---market" alt=""/>
     </file>
-    <file name="sdfsfsdfsdfsdfsdfsdf.png" crc="406919567" ref="index">
+    <file name="sdfsfsdfsdfsdfsdfsdf.png" crc="406919567" ref="index:evilmun-hub---market">
       <caption webpage="index" alt=""/>
+      <caption webpage="evilmun-hub---market" alt=""/>
     </file>
     <file name="evilmun family post vk.jpg" crc="4104097145" ref="index:evilmun-hub---mersh:evilmun-hub---новости">
       <caption webpage="index" alt=""/>
@@ -142,22 +144,26 @@
       <caption webpage="index" alt=""/>
     </file>
     <file name="skin2-u1260-fr.png" crc="4179275883" ref="index:сотрудничество:вакансия"/>
-    <file name="фывфывввв.png" crc="445311295" ref="index">
+    <file name="фывфывввв.png" crc="445311295" ref="index:evilmun-hub---market">
       <caption webpage="index" alt=""/>
+      <caption webpage="evilmun-hub---market" alt=""/>
     </file>
     <file name="фывфыв-u1263-fr.png" crc="251582496" ref="index:сотрудничество:вакансия"/>
     <file name="skin2.png" crc="4211971210" ref="index:evilmun-hub---market">
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
+      <caption webpage="evilmun-hub---market" alt=""/>
+      <caption webpage="evilmun-hub---market" alt=""/>
     </file>
     <file name="background.png" crc="388204663" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="чясячсячс.png" crc="383482916" ref="index">
+    <file name="чясячсячс.png" crc="383482916" ref="index:evilmun-hub---market">
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
+      <caption webpage="evilmun-hub---market" alt=""/>
     </file>
-    <file name="фывфыв.png" crc="4125188141" ref="index">
+    <file name="фывфыв.png" crc="4125188141" ref="index:evilmun-hub---market">
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
@@ -165,12 +171,18 @@
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
+      <caption webpage="evilmun-hub---market" alt=""/>
+      <caption webpage="evilmun-hub---market" alt=""/>
+      <caption webpage="evilmun-hub---market" alt=""/>
+      <caption webpage="evilmun-hub---market" alt=""/>
     </file>
-    <file name="ыфвыфвфыв.png" crc="4252304770" ref="index:сотрудничество:вакансия">
+    <file name="ыфвыфвфыв.png" crc="4252304770" ref="index:сотрудничество:вакансия:evilmun-hub---market">
       <caption webpage="index" alt=""/>
+      <caption webpage="evilmun-hub---market" alt=""/>
     </file>
-    <file name="ячсячсячс.png" crc="29902783" ref="index">
+    <file name="ячсячсячс.png" crc="29902783" ref="index:evilmun-hub---market">
       <caption webpage="index" alt=""/>
+      <caption webpage="evilmun-hub---market" alt=""/>
     </file>
     <file name="1 slide.jpg" crc="36838526" ref="index">
       <caption webpage="index" alt=""/>
@@ -200,26 +212,32 @@
     <file name="tuxsvg (1).png" crc="3895778894" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="dbtid_aachqzx4adzbzibcpy7p4xtzn3unxr-wcoe.png" crc="4039218865" ref="index">
+    <file name="dbtid_aachqzx4adzbzibcpy7p4xtzn3unxr-wcoe.png" crc="4039218865" ref="index:evilmun-hub---market">
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
+      <caption webpage="evilmun-hub---market" alt=""/>
     </file>
-    <file name="фывфыввывфввв.jpg" crc="337567323" ref="index:сотрудничество:вакансия">
+    <file name="фывфыввывфввв.jpg" crc="337567323" ref="index:сотрудничество:вакансия:evilmun-hub---market">
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
-      <caption webpage="сотрудничество" alt=""/>
-      <caption webpage="сотрудничество" alt=""/>
-      <caption webpage="сотрудничество" alt=""/>
+      <caption webpage="evilmun-hub---market" alt=""/>
+      <caption webpage="evilmun-hub---market" alt=""/>
+      <caption webpage="evilmun-hub---market" alt=""/>
       <caption webpage="вакансия" alt=""/>
       <caption webpage="вакансия" alt=""/>
       <caption webpage="вакансия" alt=""/>
+      <caption webpage="сотрудничество" alt=""/>
+      <caption webpage="сотрудничество" alt=""/>
+      <caption webpage="сотрудничество" alt=""/>
     </file>
-    <file name="group-57 (1).png" crc="4204399564" ref="index">
+    <file name="group-57 (1).png" crc="4204399564" ref="index:evilmun-hub---market">
       <caption webpage="index" alt=""/>
+      <caption webpage="evilmun-hub---market" alt=""/>
     </file>
-    <file name="sddddadasd.png" crc="110976595" ref="index">
+    <file name="sddddadasd.png" crc="110976595" ref="index:evilmun-hub---market">
       <caption webpage="index" alt=""/>
+      <caption webpage="evilmun-hub---market" alt=""/>
     </file>
     <file name="1582033937_roy-lichtenstein_vsthemes_ru-11.jpg" crc="3977334541" ref="evilmun-ewc---egsp.kazan-2021">
       <caption webpage="evilmun-ewc---egsp.kazan-2021" alt=""/>
@@ -351,12 +369,15 @@
     <file name="dfsdfsdf.png" crc="3804690135" ref="evilmun-hub---market">
       <caption webpage="evilmun-hub---market" alt=""/>
     </file>
+    <file name="без иrrrrмени-1.png" crc="237017111" ref="evilmun-hub---market">
+      <caption webpage="evilmun-hub---market" alt=""/>
+    </file>
   </folder>
   <file name="index.html" crc="4052803866" seo="true" mt="1651082023782" redirect="true"/>
   <file name="evilmun-ewc---egsp.kazan-2021.html" crc="4041289529" seo="true" mt="1651082023782" redirect="true"/>
   <file name="evilmun-hub---mersh.html" crc="4236958920" seo="true" mt="1651082023782" redirect="true"/>
   <file name="evilmun-hub---ewc-and-lan.html" crc="101164799" seo="true" mt="1651082023782" redirect="true"/>
-  <file name="evilmun-hub---market.html" crc="275532717" seo="true" mt="1651082023782" redirect="true"/>
+  <file name="evilmun-hub---market.html" crc="3782484798" seo="true" mt="1651243771297" redirect="true"/>
   <file name="evilmun-hub---communiti.html" crc="3921588678" seo="true" mt="1651082023782" redirect="true"/>
   <file name="об-evilmune.html" crc="299945471" seo="true" mt="1651082023782" redirect="true"/>
   <file name="сотрудничество.html" crc="402393976" seo="true" mt="1651082023782" redirect="true"/>
