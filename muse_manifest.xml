@@ -1,4 +1,4 @@
-<manifest alg="2" build="2017.0.4.363" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="evilmun.com" resolutions="1x" timestamp="1653997951293">
+<manifest alg="2" build="2017.0.4.363" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="evilmun.com" resolutions="1x" timestamp="1653998239000">
   <folder name="css">
     <file name="site_global.css" crc="443350757"/>
     <file name="master_______-a.css" crc="19653266" ref="вакансия:поддержка-dx11:evilmun-hub---mersh:evilmun-ewc---egsp.kazan-2021:evilmun-hub---market:evilmun-hub---ewc-and-lan:об-evilmune:evilmun-hub---новости:evilmun-hub---статус-серверов:сотрудничество:evilmun-hub---communiti:evilmun---brend:evilmun-hub---home"/>
@@ -10,7 +10,7 @@
     <file name="evilmun-hub---ewc-and-lan.css" crc="91935155" ref="evilmun-hub---ewc-and-lan"/>
     <file name="__-evilmune.css" crc="3821812308" ref="об-evilmune"/>
     <file name="evilmun-news.css" crc="3758620527" ref="evilmun-news"/>
-    <file name="index.css" crc="3913668896" ref="index"/>
+    <file name="index.css" crc="177886583" ref="index"/>
     <file name="evilmun-hub---_______.css" crc="3951489898" ref="evilmun-hub---новости"/>
     <file name="evilmun-hub---______-________.css" crc="431665527" ref="evilmun-hub---статус-серверов"/>
     <file name="______________.css" crc="3818398528" ref="сотрудничество"/>
@@ -584,7 +584,7 @@
       <caption webpage="high-brust---collection---evillmun-news" alt=""/>
     </file>
   </folder>
-  <file name="index.html" crc="3921753760" seo="true" mt="1653997724931" redirect="true"/>
+  <file name="index.html" crc="3873717797" seo="true" mt="1653998226321" redirect="true"/>
   <file name="evilmun-ewc---egsp.kazan-2021.html" crc="229347040" seo="true" mt="1653994652903" redirect="true"/>
   <file name="evilmun-hub---mersh.html" crc="4115582819" seo="true" mt="1653994652903" redirect="true"/>
   <file name="evilmun-hub---ewc-and-lan.html" crc="3787073674" seo="true" mt="1653994652903" redirect="true"/>
