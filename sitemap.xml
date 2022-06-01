@@ -154,13 +154,19 @@
     <priority>0.5</priority>
   </url>
   <url>
+    <loc>http://evilmun.com/blog---evillmun-hub.html</loc>
+    <lastmod>2022-06-01</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
     <loc>http://evilmun.com/high-brust---collection---evillmun-news.html</loc>
     <lastmod>2022-06-01</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://evilmun.com/blog---evillmun-hub.html</loc>
+    <loc>http://evilmun.com/1-%D0%B3%D0%BE%D0%B4-evilmun-family---evillmun-hub.html</loc>
     <lastmod>2022-06-01</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
