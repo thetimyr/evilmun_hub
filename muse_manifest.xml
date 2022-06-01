@@ -1,31 +1,32 @@
-<manifest alg="2" build="2017.0.4.363" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="evilmun.com" resolutions="1x" timestamp="1653998433593">
+<manifest alg="2" build="2017.0.4.363" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="evilmun.com" resolutions="1x" timestamp="1654075146248">
   <folder name="css">
     <file name="site_global.css" crc="443350757"/>
-    <file name="master_______-a.css" crc="138139566" ref="вакансия:поддержка-dx11:evilmun-hub---mersh:evilmun-ewc---egsp.kazan-2021:evilmun-hub---market:evilmun-hub---ewc-and-lan:об-evilmune:evilmun-hub---новости:evilmun-hub---статус-серверов:сотрудничество:evilmun-hub---communiti:evilmun---brend:evilmun-hub---home"/>
-    <file name="________.css" crc="81911089" ref="вакансия"/>
-    <file name="_________-dx11.css" crc="195579365" ref="поддержка-dx11"/>
-    <file name="evilmun-hub---mersh.css" crc="3880200819" ref="evilmun-hub---mersh"/>
-    <file name="evilmun-ewc---egsp_kazan-2021.css" crc="168367579" ref="evilmun-ewc---egsp.kazan-2021"/>
-    <file name="evilmun-hub---market.css" crc="113566077" ref="evilmun-hub---market"/>
-    <file name="evilmun-hub---ewc-and-lan.css" crc="4230085127" ref="evilmun-hub---ewc-and-lan"/>
-    <file name="__-evilmune.css" crc="3900833620" ref="об-evilmune"/>
+    <file name="master_______-a.css" crc="3928382499" ref="вакансия:поддержка-dx11:evilmun-hub---mersh:evilmun-ewc---egsp.kazan-2021:evilmun-hub---market:evilmun-hub---ewc-and-lan:об-evilmune:evilmun-hub---новости:evilmun-hub---статус-серверов:сотрудничество:evilmun-hub---communiti:evilmun---brend:evilmun-hub---home"/>
+    <file name="________.css" crc="4284665781" ref="вакансия"/>
+    <file name="_________-dx11.css" crc="441450682" ref="поддержка-dx11"/>
+    <file name="evilmun-hub---mersh.css" crc="73214597" ref="evilmun-hub---mersh"/>
+    <file name="evilmun-ewc---egsp_kazan-2021.css" crc="350645443" ref="evilmun-ewc---egsp.kazan-2021"/>
+    <file name="evilmun-hub---market.css" crc="117371394" ref="evilmun-hub---market"/>
+    <file name="evilmun-hub---ewc-and-lan.css" crc="283671776" ref="evilmun-hub---ewc-and-lan"/>
+    <file name="__-evilmune.css" crc="75445308" ref="об-evilmune"/>
     <file name="evilmun-news.css" crc="3758620527" ref="evilmun-news"/>
-    <file name="index.css" crc="177886583" ref="index"/>
-    <file name="evilmun-hub---_______.css" crc="4069009215" ref="evilmun-hub---новости"/>
-    <file name="evilmun-hub---______-________.css" crc="3856331268" ref="evilmun-hub---статус-серверов"/>
-    <file name="______________.css" crc="26776431" ref="сотрудничество"/>
-    <file name="evilmun-hub---communiti.css" crc="110779185" ref="evilmun-hub---communiti"/>
-    <file name="evilmun---brend.css" crc="276690074" ref="evilmun---brend"/>
-    <file name="master____-________-________.css" crc="104640801" ref="торговая-площадка---evilmun-hub"/>
-    <file name="master_______-b.css" crc="4020298509" ref="index:trilogia---evilmun-hub:-opengame---evilmun-family:сообщество---evillmun-hub:ресурс---evillmun-hub:high-brust---collection---evillmun-news:forrest-fuss---collection---evillmun-news"/>
-    <file name="trilogia---evilmun-hub.css" crc="111461039" ref="trilogia---evilmun-hub"/>
+    <file name="index.css" crc="3882988435" ref="index"/>
+    <file name="evilmun-hub---_______.css" crc="521718311" ref="evilmun-hub---новости"/>
+    <file name="evilmun-hub---______-________.css" crc="4033803316" ref="evilmun-hub---статус-серверов"/>
+    <file name="______________.css" crc="271378633" ref="сотрудничество"/>
+    <file name="evilmun-hub---communiti.css" crc="95252792" ref="evilmun-hub---communiti"/>
+    <file name="evilmun---brend.css" crc="375364093" ref="evilmun---brend"/>
+    <file name="master____-________-________.css" crc="139667551" ref="торговая-площадка---evilmun-hub"/>
+    <file name="master_______-b.css" crc="4122846014" ref="index:trilogia---evilmun-hub:-opengame---evilmun-family:сообщество---evillmun-hub:ресурс---evillmun-hub:high-brust---collection---evillmun-news:forrest-fuss---collection---evillmun-news:blog---evillmun-hub"/>
+    <file name="trilogia---evilmun-hub.css" crc="3789368040" ref="trilogia---evilmun-hub"/>
     <file name="________-________---evilmun-hub.css" crc="5045999" ref="торговая-площадка---evilmun-hub"/>
-    <file name="evilmun-hub---home.css" crc="374830451" ref="evilmun-hub---home"/>
-    <file name="-opengame---evilmun-family.css" crc="4269950083" ref="-opengame---evilmun-family"/>
-    <file name="__________---evillmun-hub.css" crc="4029913754" ref="сообщество---evillmun-hub"/>
-    <file name="______---evillmun-hub.css" crc="3979079251" ref="ресурс---evillmun-hub"/>
-    <file name="high-brust---collection---evillmun-news.css" crc="48485647" ref="high-brust---collection---evillmun-news"/>
-    <file name="forrest-fuss---collection---evillmun-news.css" crc="167350308" ref="forrest-fuss---collection---evillmun-news"/>
+    <file name="evilmun-hub---home.css" crc="224615345" ref="evilmun-hub---home"/>
+    <file name="-opengame---evilmun-family.css" crc="3794405771" ref="-opengame---evilmun-family"/>
+    <file name="__________---evillmun-hub.css" crc="4012891388" ref="сообщество---evillmun-hub"/>
+    <file name="______---evillmun-hub.css" crc="3976166418" ref="ресурс---evillmun-hub"/>
+    <file name="high-brust---collection---evillmun-news.css" crc="4035899172" ref="high-brust---collection---evillmun-news"/>
+    <file name="forrest-fuss---collection---evillmun-news.css" crc="3787961237" ref="forrest-fuss---collection---evillmun-news"/>
+    <file name="blog---evillmun-hub.css" crc="87987124" ref="blog---evillmun-hub"/>
   </folder>
   <folder name="fonts">
     <file name="ttcommons-demibolditalic.woff" crc="4062400089"/>
@@ -109,13 +110,13 @@
     <file name="unnamed-(1).png" crc="47570027" seo="true" mt="1641404611000"/>
   </folder>
   <folder name="scripts">
-    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:evilmun-ewc---egsp.kazan-2021:evilmun-hub---mersh:evilmun-hub---ewc-and-lan:evilmun-hub---market:evilmun-hub---communiti:об-evilmune:сотрудничество:вакансия:evilmun-hub---статус-серверов:evilmun-hub---новости:evilmun---brend:поддержка-dx11:evilmun-news:evilmun-hub---home:ресурс---evillmun-hub:trilogia---evilmun-hub:-opengame---evilmun-family:сообщество---evillmun-hub:торговая-площадка---evilmun-hub:forrest-fuss---collection---evillmun-news:high-brust---collection---evillmun-news"/>
-    <file name="museutils.js" crc="4216313831" ref="index:evilmun-ewc---egsp.kazan-2021:evilmun-hub---mersh:evilmun-hub---ewc-and-lan:evilmun-hub---market:evilmun-hub---communiti:об-evilmune:сотрудничество:вакансия:evilmun-hub---статус-серверов:evilmun-hub---новости:evilmun---brend:поддержка-dx11:evilmun-news:evilmun-hub---home:ресурс---evillmun-hub:trilogia---evilmun-hub:-opengame---evilmun-family:сообщество---evillmun-hub:торговая-площадка---evilmun-hub:forrest-fuss---collection---evillmun-news:high-brust---collection---evillmun-news"/>
-    <file name="whatinput.js" crc="86476730" ref="index:evilmun-ewc---egsp.kazan-2021:evilmun-hub---mersh:evilmun-hub---ewc-and-lan:evilmun-hub---market:evilmun-hub---communiti:об-evilmune:сотрудничество:вакансия:evilmun-hub---статус-серверов:evilmun-hub---новости:evilmun---brend:поддержка-dx11:evilmun-news:evilmun-hub---home:ресурс---evillmun-hub:trilogia---evilmun-hub:-opengame---evilmun-family:сообщество---evillmun-hub:торговая-площадка---evilmun-hub:forrest-fuss---collection---evillmun-news:high-brust---collection---evillmun-news"/>
-    <file name="museconfig.js" crc="474374037" ref="index:evilmun-ewc---egsp.kazan-2021:evilmun-hub---mersh:evilmun-hub---ewc-and-lan:evilmun-hub---market:evilmun-hub---communiti:об-evilmune:сотрудничество:вакансия:evilmun-hub---статус-серверов:evilmun-hub---новости:evilmun---brend:поддержка-dx11:evilmun-news:evilmun-hub---home:ресурс---evillmun-hub:trilogia---evilmun-hub:-opengame---evilmun-family:сообщество---evillmun-hub:торговая-площадка---evilmun-hub:forrest-fuss---collection---evillmun-news:high-brust---collection---evillmun-news"/>
-    <file name="jquery.musepolyfill.bgsize.js" crc="4110862005" ref="index:evilmun-ewc---egsp.kazan-2021:evilmun-hub---mersh:evilmun-hub---ewc-and-lan:evilmun-hub---market:evilmun-hub---communiti:об-evilmune:сотрудничество:вакансия:evilmun-hub---статус-серверов:evilmun-hub---новости:evilmun---brend:поддержка-dx11:evilmun-news:evilmun-hub---home:ресурс---evillmun-hub:trilogia---evilmun-hub:-opengame---evilmun-family:сообщество---evillmun-hub:торговая-площадка---evilmun-hub:forrest-fuss---collection---evillmun-news:high-brust---collection---evillmun-news"/>
-    <file name="jquery.watch.js" crc="460461809" ref="index:evilmun-ewc---egsp.kazan-2021:evilmun-hub---mersh:evilmun-hub---ewc-and-lan:evilmun-hub---market:evilmun-hub---communiti:об-evilmune:сотрудничество:вакансия:evilmun-hub---статус-серверов:evilmun-hub---новости:evilmun---brend:поддержка-dx11:evilmun-news:evilmun-hub---home:ресурс---evillmun-hub:trilogia---evilmun-hub:-opengame---evilmun-family:сообщество---evillmun-hub:торговая-площадка---evilmun-hub:forrest-fuss---collection---evillmun-news:high-brust---collection---evillmun-news"/>
-    <file name="require.js" crc="3951022091" ref="index:evilmun-ewc---egsp.kazan-2021:evilmun-hub---mersh:evilmun-hub---ewc-and-lan:evilmun-hub---market:evilmun-hub---communiti:об-evilmune:сотрудничество:вакансия:evilmun-hub---статус-серверов:evilmun-hub---новости:evilmun---brend:поддержка-dx11:evilmun-news:evilmun-hub---home:ресурс---evillmun-hub:trilogia---evilmun-hub:-opengame---evilmun-family:сообщество---evillmun-hub:торговая-площадка---evilmun-hub:forrest-fuss---collection---evillmun-news:high-brust---collection---evillmun-news"/>
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:evilmun-ewc---egsp.kazan-2021:evilmun-hub---mersh:evilmun-hub---ewc-and-lan:evilmun-hub---market:evilmun-hub---communiti:об-evilmune:сотрудничество:вакансия:evilmun-hub---статус-серверов:evilmun-hub---новости:evilmun---brend:поддержка-dx11:evilmun-news:evilmun-hub---home:ресурс---evillmun-hub:trilogia---evilmun-hub:-opengame---evilmun-family:сообщество---evillmun-hub:торговая-площадка---evilmun-hub:forrest-fuss---collection---evillmun-news:high-brust---collection---evillmun-news:blog---evillmun-hub"/>
+    <file name="museutils.js" crc="4216313831" ref="index:evilmun-ewc---egsp.kazan-2021:evilmun-hub---mersh:evilmun-hub---ewc-and-lan:evilmun-hub---market:evilmun-hub---communiti:об-evilmune:сотрудничество:вакансия:evilmun-hub---статус-серверов:evilmun-hub---новости:evilmun---brend:поддержка-dx11:evilmun-news:evilmun-hub---home:ресурс---evillmun-hub:trilogia---evilmun-hub:-opengame---evilmun-family:сообщество---evillmun-hub:торговая-площадка---evilmun-hub:forrest-fuss---collection---evillmun-news:high-brust---collection---evillmun-news:blog---evillmun-hub"/>
+    <file name="whatinput.js" crc="86476730" ref="index:evilmun-ewc---egsp.kazan-2021:evilmun-hub---mersh:evilmun-hub---ewc-and-lan:evilmun-hub---market:evilmun-hub---communiti:об-evilmune:сотрудничество:вакансия:evilmun-hub---статус-серверов:evilmun-hub---новости:evilmun---brend:поддержка-dx11:evilmun-news:evilmun-hub---home:ресурс---evillmun-hub:trilogia---evilmun-hub:-opengame---evilmun-family:сообщество---evillmun-hub:торговая-площадка---evilmun-hub:forrest-fuss---collection---evillmun-news:high-brust---collection---evillmun-news:blog---evillmun-hub"/>
+    <file name="museconfig.js" crc="474374037" ref="index:evilmun-ewc---egsp.kazan-2021:evilmun-hub---mersh:evilmun-hub---ewc-and-lan:evilmun-hub---market:evilmun-hub---communiti:об-evilmune:сотрудничество:вакансия:evilmun-hub---статус-серверов:evilmun-hub---новости:evilmun---brend:поддержка-dx11:evilmun-news:evilmun-hub---home:ресурс---evillmun-hub:trilogia---evilmun-hub:-opengame---evilmun-family:сообщество---evillmun-hub:торговая-площадка---evilmun-hub:forrest-fuss---collection---evillmun-news:high-brust---collection---evillmun-news:blog---evillmun-hub"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="4110862005" ref="index:evilmun-ewc---egsp.kazan-2021:evilmun-hub---mersh:evilmun-hub---ewc-and-lan:evilmun-hub---market:evilmun-hub---communiti:об-evilmune:сотрудничество:вакансия:evilmun-hub---статус-серверов:evilmun-hub---новости:evilmun---brend:поддержка-dx11:evilmun-news:evilmun-hub---home:ресурс---evillmun-hub:trilogia---evilmun-hub:-opengame---evilmun-family:сообщество---evillmun-hub:торговая-площадка---evilmun-hub:forrest-fuss---collection---evillmun-news:high-brust---collection---evillmun-news:blog---evillmun-hub"/>
+    <file name="jquery.watch.js" crc="460461809" ref="index:evilmun-ewc---egsp.kazan-2021:evilmun-hub---mersh:evilmun-hub---ewc-and-lan:evilmun-hub---market:evilmun-hub---communiti:об-evilmune:сотрудничество:вакансия:evilmun-hub---статус-серверов:evilmun-hub---новости:evilmun---brend:поддержка-dx11:evilmun-news:evilmun-hub---home:ресурс---evillmun-hub:trilogia---evilmun-hub:-opengame---evilmun-family:сообщество---evillmun-hub:торговая-площадка---evilmun-hub:forrest-fuss---collection---evillmun-news:high-brust---collection---evillmun-news:blog---evillmun-hub"/>
+    <file name="require.js" crc="3951022091" ref="index:evilmun-ewc---egsp.kazan-2021:evilmun-hub---mersh:evilmun-hub---ewc-and-lan:evilmun-hub---market:evilmun-hub---communiti:об-evilmune:сотрудничество:вакансия:evilmun-hub---статус-серверов:evilmun-hub---новости:evilmun---brend:поддержка-dx11:evilmun-news:evilmun-hub---home:ресурс---evillmun-hub:trilogia---evilmun-hub:-opengame---evilmun-family:сообщество---evillmun-hub:торговая-площадка---evilmun-hub:forrest-fuss---collection---evillmun-news:high-brust---collection---evillmun-news:blog---evillmun-hub"/>
     <file name="webpro.js" crc="4143865194" ref="evilmun-ewc---egsp.kazan-2021:evilmun-hub---communiti"/>
     <file name="musewpslideshow.js" crc="3781122836" ref="evilmun-ewc---egsp.kazan-2021:evilmun-hub---communiti"/>
     <file name="jquery.museoverlay.js" crc="4030747646" ref="evilmun-ewc---egsp.kazan-2021:evilmun-hub---communiti"/>
@@ -125,13 +126,13 @@
     <file name="шаблон-a-favicon.ico" crc="405531321" ref="evilmun-hub---home"/>
     <file name="loading-logo.png" crc="392056023" ref="evilmun-hub---home">
       <caption webpage="index" alt=""/>
-      <caption webpage="evilmun-hub---home" alt=""/>
       <caption webpage="evilmun-hub---market" alt=""/>
+      <caption webpage="evilmun-hub---home" alt=""/>
     </file>
     <file name="sdfsfsdfsdfsdfsdfsdf.png" crc="406919567" ref="evilmun-hub---home">
       <caption webpage="index" alt=""/>
-      <caption webpage="evilmun-hub---home" alt=""/>
       <caption webpage="evilmun-hub---market" alt=""/>
+      <caption webpage="evilmun-hub---home" alt=""/>
     </file>
     <file name="asaadas.png" crc="4024771720" ref="evilmun-hub---home">
       <caption webpage="index" alt=""/>
@@ -163,24 +164,24 @@
     <file name="skin2-u1260-fr.png" crc="4179275883" ref="сотрудничество:вакансия:evilmun-hub---home"/>
     <file name="фывфывввв.png" crc="445311295" ref="evilmun-hub---home">
       <caption webpage="index" alt=""/>
-      <caption webpage="evilmun-hub---home" alt=""/>
       <caption webpage="evilmun-hub---market" alt=""/>
+      <caption webpage="evilmun-hub---home" alt=""/>
     </file>
     <file name="фывфыв-u1263-fr.png" crc="251582496" ref="сотрудничество:вакансия:evilmun-hub---home"/>
-    <file name="skin2.png" crc="4211971210" ref="evilmun-hub---market:evilmun-hub---home:index:-opengame---evilmun-family:сообщество---evillmun-hub:торговая-площадка---evilmun-hub:trilogia---evilmun-hub">
+    <file name="skin2.png" crc="4211971210" ref="evilmun-hub---market:evilmun-hub---home">
       <caption webpage="index" alt=""/>
+      <caption webpage="evilmun-hub---market" alt=""/>
+      <caption webpage="evilmun-hub---market" alt=""/>
       <caption webpage="evilmun-hub---home" alt=""/>
       <caption webpage="evilmun-hub---home" alt=""/>
       <caption webpage="trilogia---evilmun-hub" alt=""/>
-      <caption webpage="evilmun-hub---market" alt=""/>
-      <caption webpage="evilmun-hub---market" alt=""/>
     </file>
-    <file name="чясячсячс.png" crc="383482916" ref="evilmun-hub---home:index:торговая-площадка---evilmun-hub:trilogia---evilmun-hub">
+    <file name="чясячсячс.png" crc="383482916" ref="evilmun-hub---home">
       <caption webpage="index" alt=""/>
+      <caption webpage="evilmun-hub---market" alt=""/>
       <caption webpage="evilmun-hub---home" alt=""/>
       <caption webpage="evilmun-hub---home" alt=""/>
       <caption webpage="trilogia---evilmun-hub" alt=""/>
-      <caption webpage="evilmun-hub---market" alt=""/>
     </file>
     <file name="фывфыв.png" crc="4125188141" ref="evilmun-hub---home">
       <caption webpage="index" alt=""/>
@@ -190,35 +191,35 @@
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
-      <caption webpage="evilmun-hub---home" alt=""/>
-      <caption webpage="evilmun-hub---home" alt=""/>
-      <caption webpage="evilmun-hub---home" alt=""/>
-      <caption webpage="evilmun-hub---home" alt=""/>
-      <caption webpage="evilmun-hub---home" alt=""/>
-      <caption webpage="evilmun-hub---home" alt=""/>
-      <caption webpage="evilmun-hub---home" alt=""/>
       <caption webpage="evilmun-hub---market" alt=""/>
       <caption webpage="evilmun-hub---market" alt=""/>
       <caption webpage="evilmun-hub---market" alt=""/>
       <caption webpage="evilmun-hub---market" alt=""/>
+      <caption webpage="evilmun-hub---home" alt=""/>
+      <caption webpage="evilmun-hub---home" alt=""/>
+      <caption webpage="evilmun-hub---home" alt=""/>
+      <caption webpage="evilmun-hub---home" alt=""/>
+      <caption webpage="evilmun-hub---home" alt=""/>
+      <caption webpage="evilmun-hub---home" alt=""/>
+      <caption webpage="evilmun-hub---home" alt=""/>
     </file>
     <file name="ыфвыфвфыв.png" crc="4252304770" ref="сотрудничество:вакансия:evilmun-hub---home">
       <caption webpage="index" alt=""/>
-      <caption webpage="evilmun-hub---home" alt=""/>
       <caption webpage="evilmun-hub---market" alt=""/>
-    </file>
-    <file name="ячсячсячс.png" crc="29902783" ref="evilmun-hub---home:index:ресурс---evillmun-hub:сообщество---evillmun-hub:торговая-площадка---evilmun-hub:trilogia---evilmun-hub">
-      <caption webpage="index" alt=""/>
       <caption webpage="evilmun-hub---home" alt=""/>
-      <caption webpage="trilogia---evilmun-hub" alt=""/>
+    </file>
+    <file name="ячсячсячс.png" crc="29902783" ref="evilmun-hub---home">
+      <caption webpage="index" alt=""/>
       <caption webpage="торговая-площадка---evilmun-hub" alt=""/>
       <caption webpage="evilmun-hub---market" alt=""/>
+      <caption webpage="evilmun-hub---home" alt=""/>
+      <caption webpage="trilogia---evilmun-hub" alt=""/>
     </file>
     <file name="1 slide.jpg" crc="36838526" ref="evilmun-hub---home">
       <caption webpage="index" alt=""/>
       <caption webpage="evilmun-hub---home" alt=""/>
     </file>
-    <file name="android_logo_2019_(stacked)svg.png" crc="3913208614" ref="index:evilmun-hub---home:trilogia---evilmun-hub">
+    <file name="android_logo_2019_(stacked)svg.png" crc="3913208614" ref="evilmun-hub---home:blog---evillmun-hub">
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
@@ -226,6 +227,9 @@
       <caption webpage="trilogia---evilmun-hub" alt=""/>
       <caption webpage="trilogia---evilmun-hub" alt=""/>
       <caption webpage="trilogia---evilmun-hub" alt=""/>
+      <caption webpage="blog---evillmun-hub" alt=""/>
+      <caption webpage="blog---evillmun-hub" alt=""/>
+      <caption webpage="blog---evillmun-hub" alt=""/>
     </file>
     <file name="1280px-macos_wordmark_(2017)svg.png" crc="3929925934" ref="evilmun-hub---home">
       <caption webpage="index" alt=""/>
@@ -237,8 +241,8 @@
     </file>
     <file name="awdadwawd.png" crc="358204436" ref="evilmun-hub---communiti:evilmun-hub---home">
       <caption webpage="index" alt=""/>
-      <caption webpage="evilmun-hub---home" alt=""/>
       <caption webpage="evilmun-hub---communiti" alt=""/>
+      <caption webpage="evilmun-hub---home" alt=""/>
     </file>
     <file name="bookmark-ribbon--v1.png" crc="98427383" ref="evilmun-hub---home">
       <caption webpage="index" alt=""/>
@@ -256,43 +260,43 @@
       <caption webpage="index" alt=""/>
       <caption webpage="evilmun-hub---home" alt=""/>
     </file>
-    <file name="dbtid_aachqzx4adzbzibcpy7p4xtzn3unxr-wcoe.png" crc="4039218865" ref="evilmun-hub---home:index:торговая-площадка---evilmun-hub:trilogia---evilmun-hub">
+    <file name="dbtid_aachqzx4adzbzibcpy7p4xtzn3unxr-wcoe.png" crc="4039218865" ref="evilmun-hub---home">
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
-      <caption webpage="evilmun-hub---home" alt=""/>
-      <caption webpage="evilmun-hub---home" alt=""/>
-      <caption webpage="trilogia---evilmun-hub" alt=""/>
-      <caption webpage="trilogia---evilmun-hub" alt=""/>
       <caption webpage="торговая-площадка---evilmun-hub" alt=""/>
       <caption webpage="торговая-площадка---evilmun-hub" alt=""/>
       <caption webpage="evilmun-hub---market" alt=""/>
+      <caption webpage="evilmun-hub---home" alt=""/>
+      <caption webpage="evilmun-hub---home" alt=""/>
+      <caption webpage="trilogia---evilmun-hub" alt=""/>
+      <caption webpage="trilogia---evilmun-hub" alt=""/>
     </file>
-    <file name="фывфыввывфввв.jpg" crc="337567323" ref="index:сотрудничество:вакансия:evilmun-hub---home:сообщество---evillmun-hub:торговая-площадка---evilmun-hub:trilogia---evilmun-hub">
+    <file name="фывфыввывфввв.jpg" crc="337567323" ref="сотрудничество:вакансия:evilmun-hub---home:сообщество---evillmun-hub:торговая-площадка---evilmun-hub:blog---evillmun-hub">
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
-      <caption webpage="evilmun-hub---home" alt=""/>
-      <caption webpage="evilmun-hub---home" alt=""/>
-      <caption webpage="evilmun-hub---home" alt=""/>
-      <caption webpage="вакансия" alt=""/>
-      <caption webpage="вакансия" alt=""/>
-      <caption webpage="вакансия" alt=""/>
-      <caption webpage="сотрудничество" alt=""/>
-      <caption webpage="сотрудничество" alt=""/>
-      <caption webpage="сотрудничество" alt=""/>
       <caption webpage="evilmun-hub---market" alt=""/>
       <caption webpage="evilmun-hub---market" alt=""/>
       <caption webpage="evilmun-hub---market" alt=""/>
+      <caption webpage="вакансия" alt=""/>
+      <caption webpage="вакансия" alt=""/>
+      <caption webpage="вакансия" alt=""/>
+      <caption webpage="evilmun-hub---home" alt=""/>
+      <caption webpage="evilmun-hub---home" alt=""/>
+      <caption webpage="evilmun-hub---home" alt=""/>
+      <caption webpage="сотрудничество" alt=""/>
+      <caption webpage="сотрудничество" alt=""/>
+      <caption webpage="сотрудничество" alt=""/>
     </file>
     <file name="group-57 (1).png" crc="4204399564" ref="evilmun-hub---home">
       <caption webpage="index" alt=""/>
-      <caption webpage="evilmun-hub---home" alt=""/>
       <caption webpage="evilmun-hub---market" alt=""/>
+      <caption webpage="evilmun-hub---home" alt=""/>
     </file>
     <file name="sddddadasd.png" crc="110976595" ref="evilmun-hub---home">
       <caption webpage="index" alt=""/>
-      <caption webpage="evilmun-hub---home" alt=""/>
       <caption webpage="evilmun-hub---market" alt=""/>
+      <caption webpage="evilmun-hub---home" alt=""/>
     </file>
     <file name="1582033937_roy-lichtenstein_vsthemes_ru-11.jpg" crc="3977334541" ref="evilmun-ewc---egsp.kazan-2021">
       <caption webpage="evilmun-ewc---egsp.kazan-2021" alt=""/>
@@ -335,10 +339,10 @@
       <caption webpage="evilmun-hub---mersh" alt=""/>
     </file>
     <file name="twitch.png" crc="177051182" ref="evilmun-hub---ewc-and-lan:evilmun-hub---статус-серверов">
+      <caption webpage="evilmun-hub---ewc-and-lan" alt=""/>
+      <caption webpage="evilmun-hub---ewc-and-lan" alt=""/>
+      <caption webpage="evilmun-hub---ewc-and-lan" alt=""/>
       <caption webpage="evilmun-hub---статус-серверов" alt=""/>
-      <caption webpage="evilmun-hub---ewc-and-lan" alt=""/>
-      <caption webpage="evilmun-hub---ewc-and-lan" alt=""/>
-      <caption webpage="evilmun-hub---ewc-and-lan" alt=""/>
     </file>
     <file name="ыфвфывыфв-u1004-fr.png" crc="4246609467" ref="evilmun-hub---ewc-and-lan"/>
     <file name="gg3-u1008-fr.png" crc="276332158" ref="evilmun-hub---ewc-and-lan"/>
@@ -358,7 +362,7 @@
     <file name="background for login.png" crc="441273366" ref="evilmun-hub---market">
       <caption webpage="evilmun-hub---market" alt=""/>
     </file>
-    <file name="чмываыва.png" crc="3935194634" ref="evilmun-hub---market:ресурс---evillmun-hub">
+    <file name="чмываыва.png" crc="3935194634" ref="evilmun-hub---market">
       <caption webpage="evilmun-hub---market" alt=""/>
       <caption webpage="ресурс---evillmun-hub" alt=""/>
     </file>
@@ -380,15 +384,15 @@
     </file>
     <file name="background for login-u1872-fr.png" crc="3973603250" ref="об-evilmune:сотрудничество:вакансия:evilmun---brend"/>
     <file name="u1886-4.png" crc="3908732191" ref="об-evilmune"/>
-    <file name="ddfdff-1-384x488-u1907-fr.jpg" crc="13648972" ref="об-evilmune"/>
+    <file name="ddfdff-1-384x488-u1907-fr.jpg" crc="13648972" ref="об-evilmune:trilogia---evilmun-hub"/>
     <file name="ллюолюою-u336-fr.jpg" crc="4067965643" ref="об-evilmune:trilogia---evilmun-hub">
-      <caption webpage="об-evilmune" alt=""/>
       <caption webpage="trilogia---evilmun-hub" alt=""/>
+      <caption webpage="об-evilmune" alt=""/>
     </file>
-    <file name="asaadas-u1944-fr.png" crc="335637533" ref="об-evilmune"/>
-    <file name="evddd s3-u1950-fr.png" crc="3783521656" ref="об-evilmune"/>
-    <file name="twitch-u1953-fr.png" crc="240809896" ref="об-evilmune"/>
-    <file name="evilmunfamilyprevie-u1956-fr.jpg" crc="474285867" ref="об-evilmune"/>
+    <file name="asaadas-u1944-fr.png" crc="335637533" ref="об-evilmune:trilogia---evilmun-hub"/>
+    <file name="evddd s3-u1950-fr.png" crc="3783521656" ref="об-evilmune:trilogia---evilmun-hub"/>
+    <file name="twitch-u1953-fr.png" crc="240809896" ref="об-evilmune:trilogia---evilmun-hub"/>
+    <file name="evilmunfamilyprevie-u1956-fr.jpg" crc="474285867" ref="об-evilmune:trilogia---evilmun-hub"/>
     <file name="sddsadasdasdasdasd.jpg" crc="3878889807" ref="об-evilmune">
       <caption webpage="об-evilmune" alt=""/>
     </file>
@@ -428,74 +432,89 @@
     <file name="без иrrrrмени-1.png" crc="237017111" ref="evilmun-hub---market">
       <caption webpage="evilmun-hub---market" alt=""/>
     </file>
-    <file name="nashstore-rectangle-grey-rus.jpg" crc="288753572" ref="index:evilmun-hub---home:trilogia---evilmun-hub">
+    <file name="nashstore-rectangle-grey-rus.jpg" crc="288753572" ref="evilmun-hub---home:blog---evillmun-hub">
       <caption webpage="index" alt=""/>
       <caption webpage="evilmun-hub---home" alt=""/>
       <caption webpage="trilogia---evilmun-hub" alt=""/>
+      <caption webpage="blog---evillmun-hub" alt=""/>
     </file>
     <file name="evilmun family post vk-u574-fr.jpg" crc="3770055566" ref="evilmun-hub---home:evilmun-hub---mersh:evilmun-hub---новости"/>
     <file name="background-u1188-fr.png" crc="172576928" ref="evilmun-hub---home"/>
-    <file name="background-u2874-fr.png" crc="336069583" ref="index:торговая-площадка---evilmun-hub:trilogia---evilmun-hub"/>
-    <file name="evilmunfamilyprevie-u3672-fr.jpg" crc="4046629946" ref="index"/>
-    <file name="badge-color.svg" crc="4175810730" ref="index:trilogia---evilmun-hub"/>
-    <file name="badge-color_poster_u2960.png" crc="4056771650" ref="index:trilogia---evilmun-hub"/>
-    <file name="windows_logos_png23.png" crc="3760578104" ref="index:trilogia---evilmun-hub">
+    <file name="background-u2874-fr.png" crc="336069583" ref="торговая-площадка---evilmun-hub:blog---evillmun-hub"/>
+    <file name="evilmunfamilyprevie-u3672-fr.jpg" crc="4046629946" ref="index:blog---evillmun-hub"/>
+    <file name="badge-color.svg" crc="4175810730" ref="blog---evillmun-hub"/>
+    <file name="badge-color_poster_u2960.png" crc="4056771650" ref="blog---evillmun-hub"/>
+    <file name="windows_logos_png23.png" crc="3805006662" ref="blog---evillmun-hub">
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="trilogia---evilmun-hub" alt=""/>
       <caption webpage="trilogia---evilmun-hub" alt=""/>
+      <caption webpage="blog---evillmun-hub" alt=""/>
+      <caption webpage="blog---evillmun-hub" alt=""/>
     </file>
-    <file name="frame 11.jpg" crc="283712242" ref="index:trilogia---evilmun-hub">
+    <file name="frame 11.jpg" crc="283712242" ref="blog---evillmun-hub">
       <caption webpage="index" alt=""/>
       <caption webpage="trilogia---evilmun-hub" alt=""/>
+      <caption webpage="blog---evillmun-hub" alt=""/>
     </file>
-    <file name="ff.png" crc="450264692" ref="index:trilogia---evilmun-hub">
+    <file name="ff.png" crc="450264692" ref="blog---evillmun-hub">
       <caption webpage="index" alt=""/>
       <caption webpage="trilogia---evilmun-hub" alt=""/>
+      <caption webpage="blog---evillmun-hub" alt=""/>
     </file>
-    <file name="sdsa.png" crc="4161171837" ref="index:trilogia---evilmun-hub">
+    <file name="sdsa.png" crc="4161171837" ref="blog---evillmun-hub">
       <caption webpage="index" alt=""/>
       <caption webpage="trilogia---evilmun-hub" alt=""/>
+      <caption webpage="blog---evillmun-hub" alt=""/>
     </file>
-    <file name="111.jpg" crc="4060161448" ref="index:trilogia---evilmun-hub">
+    <file name="111.jpg" crc="4060161448" ref="blog---evillmun-hub">
       <caption webpage="index" alt=""/>
       <caption webpage="trilogia---evilmun-hub" alt=""/>
+      <caption webpage="blog---evillmun-hub" alt=""/>
     </file>
-    <file name="nhhg.jpg" crc="326385202" ref="index:trilogia---evilmun-hub">
+    <file name="nhhg.jpg" crc="326385202" ref="blog---evillmun-hub">
       <caption webpage="index" alt=""/>
       <caption webpage="trilogia---evilmun-hub" alt=""/>
+      <caption webpage="blog---evillmun-hub" alt=""/>
     </file>
-    <file name="пппппп.jpg" crc="4239402552" ref="index:trilogia---evilmun-hub">
+    <file name="пппппп.jpg" crc="4239402552" ref="blog---evillmun-hub">
       <caption webpage="index" alt=""/>
       <caption webpage="trilogia---evilmun-hub" alt=""/>
+      <caption webpage="blog---evillmun-hub" alt=""/>
     </file>
-    <file name="ddddddddddddddd.jpg" crc="454506102" ref="index:trilogia---evilmun-hub">
+    <file name="ddddddddddddddd.jpg" crc="454506102" ref="blog---evillmun-hub">
       <caption webpage="index" alt=""/>
       <caption webpage="trilogia---evilmun-hub" alt=""/>
+      <caption webpage="blog---evillmun-hub" alt=""/>
     </file>
-    <file name="adasdasdsadsad-1784x950.jpg" crc="4107873450" ref="index:trilogia---evilmun-hub">
+    <file name="adasdasdsadsad-1784x950.jpg" crc="4107873450" ref="blog---evillmun-hub">
       <caption webpage="index" alt=""/>
       <caption webpage="trilogia---evilmun-hub" alt=""/>
+      <caption webpage="blog---evillmun-hub" alt=""/>
     </file>
-    <file name="7.png" crc="223847141" ref="index:торговая-площадка---evilmun-hub:trilogia---evilmun-hub">
+    <file name="7.png" crc="223847141" ref="торговая-площадка---evilmun-hub:blog---evillmun-hub">
       <caption webpage="index" alt=""/>
       <caption webpage="торговая-площадка---evilmun-hub" alt=""/>
       <caption webpage="trilogia---evilmun-hub" alt=""/>
+      <caption webpage="blog---evillmun-hub" alt=""/>
     </file>
-    <file name="эклюзивромбе.png" crc="527964348" ref="index:торговая-площадка---evilmun-hub:trilogia---evilmun-hub">
+    <file name="эклюзивромбе.png" crc="527964348" ref="торговая-площадка---evilmun-hub:blog---evillmun-hub">
       <caption webpage="index" alt=""/>
       <caption webpage="торговая-площадка---evilmun-hub" alt=""/>
       <caption webpage="trilogia---evilmun-hub" alt=""/>
+      <caption webpage="blog---evillmun-hub" alt=""/>
     </file>
-    <file name="dfdfdf.png" crc="228080897" ref="index:торговая-площадка---evilmun-hub:trilogia---evilmun-hub">
+    <file name="dfdfdf.png" crc="228080897" ref="торговая-площадка---evilmun-hub:blog---evillmun-hub">
       <caption webpage="index" alt=""/>
       <caption webpage="торговая-площадка---evilmun-hub" alt=""/>
       <caption webpage="trilogia---evilmun-hub" alt=""/>
+      <caption webpage="blog---evillmun-hub" alt=""/>
     </file>
-    <file name="evilmunfamily.png" crc="3985442169" ref="index:торговая-площадка---evilmun-hub:trilogia---evilmun-hub">
+    <file name="evilmunfamily.png" crc="3985442169" ref="торговая-площадка---evilmun-hub:blog---evillmun-hub">
       <caption webpage="index" alt=""/>
       <caption webpage="торговая-площадка---evilmun-hub" alt=""/>
       <caption webpage="trilogia---evilmun-hub" alt=""/>
+      <caption webpage="blog---evillmun-hub" alt=""/>
     </file>
     <file name="evilmun family post vk-u3201-fr.jpg" crc="3766588983" ref="ресурс---evillmun-hub"/>
     <file name="ваывва.png" crc="122289135" ref="ресурс---evillmun-hub:сообщество---evillmun-hub">
@@ -521,11 +540,6 @@
     </file>
     <file name="без иwadawdawdмени-1-u3432-fr.png" crc="4160606346" ref="-opengame---evilmun-family"/>
     <file name="фывфыввывфввв-u3465-fr.jpg" crc="154814610" ref="-opengame---evilmun-family"/>
-    <file name="asaadas-u3277-fr.png" crc="335637533" ref="trilogia---evilmun-hub"/>
-    <file name="evddd s3-u3278-fr.png" crc="3783521656" ref="trilogia---evilmun-hub"/>
-    <file name="twitch-u3279-fr.png" crc="240809896" ref="trilogia---evilmun-hub"/>
-    <file name="evilmunfamilyprevie-u3280-fr.jpg" crc="474285867" ref="trilogia---evilmun-hub"/>
-    <file name="ddfdff-1-384x488-u3324-fr.jpg" crc="13648972" ref="trilogia---evilmun-hub"/>
     <file name="forrest-fuss.jpg" crc="380284509" ref="forrest-fuss---collection---evillmun-news">
       <caption webpage="forrest-fuss---collection---evillmun-news" alt=""/>
     </file>
@@ -583,27 +597,47 @@
     <file name="highbrust_skin4.png" crc="3898986211" ref="high-brust---collection---evillmun-news">
       <caption webpage="high-brust---collection---evillmun-news" alt=""/>
     </file>
+    <file name="skin22.png" crc="4211971210" ref="blog---evillmun-hub:-opengame---evilmun-family:сообщество---evillmun-hub:торговая-площадка---evilmun-hub">
+      <caption webpage="blog---evillmun-hub" alt=""/>
+    </file>
+    <file name="ячсячсячс2.png" crc="29902783" ref="blog---evillmun-hub:ресурс---evillmun-hub:сообщество---evillmun-hub:торговая-площадка---evilmun-hub">
+      <caption webpage="торговая-площадка---evilmun-hub" alt=""/>
+      <caption webpage="blog---evillmun-hub" alt=""/>
+    </file>
+    <file name="чясячсячс2.png" crc="383482916" ref="blog---evillmun-hub:торговая-площадка---evilmun-hub">
+      <caption webpage="blog---evillmun-hub" alt=""/>
+    </file>
+    <file name="dbtid_aachqzx4adzbzibcpy7p4xtzn3unxr-wcoe2.png" crc="431798644" ref="blog---evillmun-hub:торговая-площадка---evilmun-hub">
+      <caption webpage="торговая-площадка---evilmun-hub" alt=""/>
+      <caption webpage="торговая-площадка---evilmun-hub" alt=""/>
+      <caption webpage="blog---evillmun-hub" alt=""/>
+      <caption webpage="blog---evillmun-hub" alt=""/>
+    </file>
+    <file name="чмываыва2.png" crc="3935194634" ref="ресурс---evillmun-hub">
+      <caption webpage="ресурс---evillmun-hub" alt=""/>
+    </file>
   </folder>
-  <file name="index.html" crc="3873717797" seo="true" mt="1653998226321" redirect="true"/>
-  <file name="evilmun-ewc---egsp.kazan-2021.html" crc="3800801713" seo="true" mt="1653998415698" redirect="true"/>
-  <file name="evilmun-hub---mersh.html" crc="351021616" seo="true" mt="1653998415698" redirect="true"/>
-  <file name="evilmun-hub---ewc-and-lan.html" crc="3833294685" seo="true" mt="1653998415698" redirect="true"/>
-  <file name="evilmun-hub---market.html" crc="434795655" seo="true" mt="1653998415698" redirect="true"/>
-  <file name="evilmun-hub---communiti.html" crc="3795712808" seo="true" mt="1653998415698" redirect="true"/>
-  <file name="об-evilmune.html" crc="4031145100" seo="true" mt="1653998415698" redirect="true"/>
-  <file name="сотрудничество.html" crc="177931298" seo="true" mt="1653998415698" redirect="true"/>
-  <file name="вакансия.html" crc="3858323501" seo="true" mt="1653998415698" redirect="true"/>
-  <file name="evilmun-hub---статус-серверов.html" crc="398624576" seo="true" mt="1653998415698" redirect="true"/>
-  <file name="evilmun-hub---новости.html" crc="4267568069" seo="true" mt="1653998415698" redirect="true"/>
-  <file name="evilmun---brend.html" crc="173080681" seo="true" mt="1653998415698" redirect="true"/>
-  <file name="поддержка-dx11.html" crc="448773044" seo="true" mt="1653998415698" redirect="true"/>
+  <file name="index.html" crc="3887277213" seo="true" mt="1654075128358" redirect="true"/>
+  <file name="evilmun-ewc---egsp.kazan-2021.html" crc="3885991419" seo="true" mt="1654075092877" redirect="true"/>
+  <file name="evilmun-hub---mersh.html" crc="373897437" seo="true" mt="1654075092877" redirect="true"/>
+  <file name="evilmun-hub---ewc-and-lan.html" crc="197904614" seo="true" mt="1654075092877" redirect="true"/>
+  <file name="evilmun-hub---market.html" crc="4110432915" seo="true" mt="1654075092877" redirect="true"/>
+  <file name="evilmun-hub---communiti.html" crc="83786799" seo="true" mt="1654075092877" redirect="true"/>
+  <file name="об-evilmune.html" crc="3828532652" seo="true" mt="1654075092877" redirect="true"/>
+  <file name="сотрудничество.html" crc="4015804088" seo="true" mt="1654075092877" redirect="true"/>
+  <file name="вакансия.html" crc="4285202755" seo="true" mt="1654075092877" redirect="true"/>
+  <file name="evilmun-hub---статус-серверов.html" crc="291900904" seo="true" mt="1654075092877" redirect="true"/>
+  <file name="evilmun-hub---новости.html" crc="509052218" seo="true" mt="1654075092877" redirect="true"/>
+  <file name="evilmun---brend.html" crc="219962774" seo="true" mt="1654075092877" redirect="true"/>
+  <file name="поддержка-dx11.html" crc="251466854" seo="true" mt="1654075092877" redirect="true"/>
   <file name="evilmun-news.html" crc="4056995187" seo="true" mt="1648279056169" redirect="true"/>
-  <file name="evilmun-hub---home.html" crc="4089297535" seo="true" mt="1653998415698" redirect="true"/>
-  <file name="ресурс---evillmun-hub.html" crc="3860491051" seo="true" mt="1653997724969" redirect="true"/>
-  <file name="trilogia---evilmun-hub.html" crc="224795199" seo="true" mt="1653997936093" redirect="true"/>
-  <file name="-opengame---evilmun-family.html" crc="118766606" seo="true" mt="1653997725011" redirect="true"/>
-  <file name="сообщество---evillmun-hub.html" crc="78755956" seo="true" mt="1653997724968" redirect="true"/>
-  <file name="торговая-площадка---evilmun-hub.html" crc="3811306458" seo="true" mt="1653997724933" redirect="true"/>
-  <file name="forrest-fuss---collection---evillmun-news.html" crc="3973880322" seo="true" mt="1653997725201" redirect="true"/>
-  <file name="high-brust---collection---evillmun-news.html" crc="345635150" seo="true" mt="1653997725399" redirect="true"/>
+  <file name="evilmun-hub---home.html" crc="28857524" seo="true" mt="1654075127519" redirect="true"/>
+  <file name="ресурс---evillmun-hub.html" crc="41391706" seo="true" mt="1654075128358" redirect="true"/>
+  <file name="trilogia---evilmun-hub.html" crc="3983140052" seo="true" mt="1654075128358" redirect="true"/>
+  <file name="-opengame---evilmun-family.html" crc="4226195970" seo="true" mt="1654075128358" redirect="true"/>
+  <file name="сообщество---evillmun-hub.html" crc="359921319" seo="true" mt="1654075128358" redirect="true"/>
+  <file name="торговая-площадка---evilmun-hub.html" crc="4073497228" seo="true" mt="1654075092881" redirect="true"/>
+  <file name="forrest-fuss---collection---evillmun-news.html" crc="3899036186" seo="true" mt="1654075128358" redirect="true"/>
+  <file name="high-brust---collection---evillmun-news.html" crc="4074110188" seo="true" mt="1654075128358" redirect="true"/>
+  <file name="blog---evillmun-hub.html" crc="4261719883" seo="true" mt="1654075128358" redirect="true"/>
 </manifest>
