@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 <manifest alg="2" build="2017.0.4.363" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="evilmun.com" resolutions="1x" timestamp="1656669675651">
+=======
+<manifest alg="2" build="2017.0.4.363" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="evilmun.com" resolutions="1x" timestamp="1654421048485">
+>>>>>>> parent of 734a30e (lols)
   <folder name="css">
     <file name="site_global.css" crc="146855248"/>
     <file name="master_______-a.css" crc="3928382499" ref="вакансия:поддержка-dx11:evilmun-hub---mersh:evilmun-ewc---egsp.kazan-2021:evilmun-hub---market:evilmun-hub---ewc-and-lan:об-evilmune:evilmun-hub---новости:evilmun-hub---статус-серверов:сотрудничество:evilmun-hub---communiti:evilmun---brend:evilmun-hub---home"/>
